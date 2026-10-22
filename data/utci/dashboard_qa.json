@@ -1,0 +1,31 @@
+{
+  "blocks": 1399,
+  "times": 13,
+  "priority_score_rank_diagnosis_code_identical": true,
+  "blocks_json_bytes_identical": true,
+  "formal_blocks_csv_bytes_identical": true,
+  "priority_formula_unchanged": true,
+  "PNG_dimensions": [
+    1349,
+    1401
+  ],
+  "PNG_RGBA_and_alignment_passed": true,
+  "PNG_total_bytes": 17499674,
+  "block_utci_json_bytes": 365140,
+  "UI_checks": [
+    "default shadows",
+    "UTCI hides both shadows",
+    "enabling shadow hides UTCI",
+    "UTCI off restores prior shadows",
+    "time slider updates raster and medians",
+    "sun-only group hides shaded value",
+    "all three street modes preserved",
+    "UTCI absent from breakdown and curve",
+    "no console errors"
+  ],
+  "screenshots": [
+    "screenshots/utci_1700_dashboard.jpg",
+    "screenshots/utci_1900_dashboard.jpg"
+  ],
+  "no_packages_installed": true
+}
